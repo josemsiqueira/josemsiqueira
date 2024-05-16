@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá, meu nome é José
+### Estou fazendo o curso do Alura
 <!--
 **josemsiqueira/josemsiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
